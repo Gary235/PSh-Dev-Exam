@@ -9,7 +9,7 @@ var lastID;
 
 app = express();
 
-cron.schedule('10 * * * * *', function () {
+cron.schedule('5 * * * *', function () {
   insertar();
 
 });
