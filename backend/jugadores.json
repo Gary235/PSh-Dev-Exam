@@ -1,0 +1,71 @@
+[{
+    "score": 93,
+    "profileImage": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "nickname": "Sky Punter",
+    "creationDate": "2021-03-05T19:23:10.000Z",
+    "idPlayer": 15,
+    "idStat": 15
+}, {
+    "score": 87,
+    "profileImage": "sin foto",
+    "nickname": "Gary",
+    "creationDate": "2021-03-03T03:00:00.000Z",
+    "idPlayer": 1,
+    "idStat": 1
+}, {
+    "score": 85,
+    "profileImage": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "nickname": "Gauthier Francois",
+    "creationDate": "2021-03-08T13:16:10.000Z",
+    "idPlayer": 23,
+    "idStat": 23
+}, {
+    "score": 67,
+    "profileImage": "https://randomuser.me/api/portraits/med/women/80.jpg",
+    "nickname": "Sara Peltonen",
+    "creationDate": "2021-03-05T03:11:30.000Z",
+    "idPlayer": 7,
+    "idStat": 7
+}, {
+    "score": 67,
+    "profileImage": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "nickname": "Jennifer Duncan",
+    "creationDate": "2021-03-05T03:11:30.000Z",
+    "idPlayer": 8,
+    "idStat": 8
+}, {
+    "score": 55,
+    "profileImage": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "nickname": "Cassandra Dupuis",
+    "creationDate": "2021-03-08T13:02:11.000Z",
+    "idPlayer": 17,
+    "idStat": 17
+}, {
+    "score": 55,
+    "profileImage": "sin foto",
+    "nickname": "Martin",
+    "creationDate": "2021-03-04T22:19:12.000Z",
+    "idPlayer": 2,
+    "idStat": 2
+}, {
+    "score": 51,
+    "profileImage": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "nickname": "Vishal Geel",
+    "creationDate": "2021-03-05T02:58:48.000Z",
+    "idPlayer": 5,
+    "idStat": 5
+}, {
+    "score": 48,
+    "profileImage": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "nickname": "Nino Robin",
+    "creationDate": "2021-03-08T13:20:10.000Z",
+    "idPlayer": 24,
+    "idStat": 24
+}, {
+    "score": 48,
+    "profileImage": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "nickname": "Korstiaan Van Maaren",
+    "creationDate": "2021-03-08T13:20:10.000Z",
+    "idPlayer": 25,
+    "idStat": 25
+}]
