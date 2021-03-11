@@ -3,6 +3,8 @@ const http = require('http');
 const fs = require('fs');
 const json2csv = require('json2csv').parse;
 
+
+
 function setupJugadores() {
     const con = mysql.createConnection({
         host: "localhost",
